@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Debata</string>
+    <string name="facebook_app_id">265943414076795</string>
+    <string name="fb_login_protocol_scheme">fb265943414076795</string>
+
+    <!-- Messages Screen Text -->
+    <string name="messages">MESSAGES:</string>
+    <string name="debates_username">Username</string>
+    <string name="debate_topic">Debate Topic</string>
+    <string name="recent_message">Recent Message</string>
+
+    <!-- Game Screen Text -->
+    <string name="debates">DEBATES</string>
+    <string name="discussion">Discussion</string>
+
+    <!-- Profile Screen Text -->
+    <string name="logout">LOGOUT</string>
+    <string name="name">NAME</string>
+    <string name="profile_username">Username</string>
+    <string name="settings_button">SETTINGS_BUTTON</string>
+    <string name="picURL">PICURL</string>
+
+    <!-- Button to Navigate the App -->
+    <string name="profile_button">PROFILE_BUTTON</string>
+    <string name="game_button">GAME_BUTTON</string>
+    <string name="messages_button">MESSAGES_BUTTON</string>
+
+    <!-- Settings Screen Text -->
+    <string name="settings_label_name">Name:</string>
+    <string name="hint_name">Name</string>
+    <string name="settings_label_username">Username:</string>
+    <string name="hint_username">Username</string>
+    <string name="settings_label_email">Email:</string>
+    <string name="hint_email">Email</string>
+    <string name="enable_notifications">Enable Notifications:</string>
+    <string name="settings_confirm">CONFIRM</string>
+    <string name="settings_back">BACK</string>
+
+    <!-- Chat Screen Text -->
+    <string name="chat_enter_msg">Enter message</string>
+    <string name="chat_send">Send</string>
+
+    <!-- Item_Chat Screen Text -->
+    <string name="item_chat_text">Text</string>
+
+    <!-- Item_Matches Screen Text -->
+    <string name="item_matches_user_id">User\'s ID</string>
+    <string name="item_matches_debata">Debata</string>
+    <string name="item_matches_unique_id">Unique ID</string>
+</resources>

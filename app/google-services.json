@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "981982665809",
+    "firebase_url": "https://plucky-pointer-226422.firebaseio.com",
+    "project_id": "plucky-pointer-226422",
+    "storage_bucket": "plucky-pointer-226422.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981982665809:android:6e2a7ad48b1b880e",
+        "android_client_info": {
+          "package_name": "app.debata.com.debata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981982665809-5gclokncqcrvqro0enm0fg17ue75258n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.debata.com.debata",
+            "certificate_hash": "bf47c23f5330b78b90dff11ec2ff947598ca1d5d"
+          }
+        },
+        {
+          "client_id": "981982665809-bde6m7dgd0r59c1csd685a2utpcm8cqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0PTsj1pomDCBxjnE2G4vjWf2tzwhfNDQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981982665809-bde6m7dgd0r59c1csd685a2utpcm8cqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
