@@ -1,7 +1,7 @@
 # Debata
 
 <a href='https://play.google.com/store/apps/details?id=app.debata.com.debata&hl=en&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
-	<img style="width:25%; height:25%;" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/>
+	<img style="width:25%; height:25%;" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' target="_blank" rel="noreferrer noopener"/>
 </a>
 
 Debata is a social app that allows the user to connect with people who have the opposite opinion of theirs on a given subject and have a debate with those users. Users can swipe right on a card if they agree with what's written on the card or swipe left if they disagree with what's written on the card. The user will get matched with someone that has the opposite opinion of theirs. Users can chat and argue for as long as they want.
@@ -15,24 +15,24 @@ Debata is a social app that allows the user to connect with people who have the 
 
 ## Languages and Tools
 <p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  	<a href="https://www.java.com" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" target="_blank" rel="noreferrer noopener"/>
 	</a>
 	<a href="https://developer.android.com" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" target="_blank" rel="noreferrer noopener"/>
 	</a>
 	<a href="https://firebase.google.com/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
-		<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+		<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" target="_blank" rel="noreferrer noopener"/>
 	</a>
 </p>
 
 ## Connect with me
 <p align="left">
 	<a href="https://linkedin.com/in/nelavensubas" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nelavensubas" height="30" width="40" />
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nelavensubas" height="30" width="40" target="_blank" rel="noreferrer noopener"/>
 	</a>
 	<a href="https://www.hackerrank.com/nelavensubas" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nelavensubas" height="30" width="40" />
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nelavensubas" height="30" width="40" target="_blank" rel="noreferrer noopener"/>
 	</a>
 </p>
 
